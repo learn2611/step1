@@ -2,7 +2,14 @@ html {
     background-color: #277a40;
 }
 
+body {
+    background-color: #331547;
+}
 
 h1 {
     color: #fffb00;
+}
+
+.pfont {
+    color: #00ffff;
 }
